@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(220, 53, 87);
+    color:black;
+}
+.name_of_objects
+{
+color:darkgreen
+}
+#camera
+{
+border:5px double black;
+width: 350px;
+height: 300px;
+}
